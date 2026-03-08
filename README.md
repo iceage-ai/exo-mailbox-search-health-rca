@@ -40,3 +40,23 @@ Expected signal keys (JSON input):
 - Add live Exchange Online cmdlet ingestion mode.
 - Add HTML report mode for incident handoff.
 - Add Pester tests for branch correctness.
+
+## SEO & AI Search Keywords
+**Primary search title:** Mailbox Search Health RCA for Exchange Online
+
+**Target keywords:**
+- exchange online search not finding emails
+- outlook mailbox search issue
+- microsoft 365 indexing troubleshooting
+- mailbox search diagnostics
+
+**High-intent AI search questions:**
+- Why search misses emails in Exchange Online?
+- How to diagnose mailbox indexing issues?
+- What is server-side vs client-side search issue?
+
+**On-page SEO notes:**
+- Keep issue-first headings (problem -> diagnosis -> next step).
+- Include command examples with realistic placeholders only.
+- Repeat key terms naturally in H1/H2, intro, and troubleshooting sections.
+- Add incident outcome language: root cause, remediation, validation, prevention.
